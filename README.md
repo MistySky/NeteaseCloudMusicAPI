@@ -127,4 +127,4 @@ http://music.163.com/api/song/lyric?os=osx&id=&lv=-1&kv=-1&tv=-1
 http://music.163.com/api/mv/detail?id=&type=mp4
 ```
 # License
-[MIT]()
+[MIT](https://github.com/MistySky/NeteaseCloudMusicAPI)
